@@ -1,4 +1,11 @@
-### Hi there 👋
+### Olá, meu nome é Luiz Roberto,
+#### Sejam muito bem vindos ao meu portfólio!
+
+- 🔭 Atualmente trabalho como designer freelance
+- 🌱  Estudando:  html, css e javascript
+- 🤔  Busco ajuda para migrar de área e unir meus conhecimento para trabalhar com programação.
+
+
 
 <!--
 **Luizrgn/Luizrgn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
